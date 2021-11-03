@@ -3,7 +3,7 @@ entries:
   foo-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-03T22:29:56.563784Z"
+    created: "2021-11-03T22:32:56.11865Z"
     description: A Helm chart for Kubernetes
     digest: 7598b7e446d0a0e4eb1c7694f5ad168355a30d0049aa74990708e4f85ef1fbd8
     name: foo-chart-test
@@ -14,7 +14,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-03T22:29:56.564579Z"
+    created: "2021-11-03T22:32:56.119614Z"
     description: A Helm chart for Kubernetes
     digest: bcf2ff36a025b8304d12b9ddc59ed6e6b1bef9c25c5f711a9aff706342e9efc5
     name: helm-chart-test
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://mattiaperi.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-03T22:29:56.56246Z"
+generated: "2021-11-03T22:32:56.116938Z"
