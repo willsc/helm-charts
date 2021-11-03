@@ -1,14 +1,25 @@
 apiVersion: v1
 entries:
+  foo-chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-03T22:29:56.563784Z"
+    description: A Helm chart for Kubernetes
+    digest: 7598b7e446d0a0e4eb1c7694f5ad168355a30d0049aa74990708e4f85ef1fbd8
+    name: foo-chart-test
+    type: application
+    urls:
+    - https://mattiaperi.github.io/helm-chart/foo-chart-test-0.1.0.tgz
+    version: 0.1.0
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-03T22:18:16.844349Z"
+    created: "2021-11-03T22:29:56.564579Z"
     description: A Helm chart for Kubernetes
     digest: bcf2ff36a025b8304d12b9ddc59ed6e6b1bef9c25c5f711a9aff706342e9efc5
     name: helm-chart-test
     type: application
     urls:
-    - https://github.com/willsc/helm-charts/helm-chart-test-0.1.0.tgz
+    - https://mattiaperi.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-03T22:18:16.841972Z"
+generated: "2021-11-03T22:29:56.56246Z"
